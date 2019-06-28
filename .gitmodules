@@ -1,0 +1,3 @@
+[submodule "shellC"]
+	path = shellC
+	url = git@github.com:DevJW2/shellC.git
