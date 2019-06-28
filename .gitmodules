@@ -4,3 +4,6 @@
 [submodule "project-musicLibrary"]
 	path = project-musicLibrary
 	url = git@github.com:DevJW2/project-musicLibrary.git
+[submodule "dogs-ate-our-homework"]
+	path = dogs-ate-our-homework
+	url = git@github.com:kylelin12/dogs-ate-our-homework.git
