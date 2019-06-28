@@ -1,3 +1,6 @@
 [submodule "shellC"]
 	path = shellC
 	url = git@github.com:DevJW2/shellC.git
+[submodule "project-musicLibrary"]
+	path = project-musicLibrary
+	url = git@github.com:DevJW2/project-musicLibrary.git
